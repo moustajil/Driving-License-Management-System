@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DVLD__Data_Access_Layer
 {
-    public class Class1
+    internal class Class2
     {
     }
 }
